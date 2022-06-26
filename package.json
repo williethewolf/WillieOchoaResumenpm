@@ -9,7 +9,7 @@
   "author": "Willie Ochoa",
   "license": "ISC",
   "bin": {
-    "your-command-here": "./index.js"
+    "get-resume": "./index.js"
   }
 }
 
