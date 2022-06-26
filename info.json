@@ -1,0 +1,21 @@
+{
+    "name": "Willie Ochoa",
+    "website": "https://github.com/williethewolf",
+    "linkedin": "https://www.linkedin.com/in/william-wolffe-5121b534/",
+    "github": "willieochoa",
+    "email": "willieOchoa@gmail.com",
+    "resume": "https://williamwolffe.com/resume/WilliamWolffe_AKA_GuillermoOchoa_Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "Node",
+        "Express",
+        "Wordpress",
+        "C#"
+    ],
+    "otherSkills": [
+        "Writting and Filmmaking",
+        "Adobe Suite for Video and Photo",
+        "Blender 3D",
+        "3D printing"
+    ]
+}
